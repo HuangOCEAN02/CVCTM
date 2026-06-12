@@ -1,0 +1,1 @@
+print('ORCTM-HuangHao')print('Cape Verde Circulation and Tide Model (CVCTM)')print('A Python module for preparing basic configuration files for the model')
